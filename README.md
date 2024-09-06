@@ -1,16 +1,56 @@
-## Hi there 👋
+<code>Console.WriteLine("Welcome to my github!🫡")</code>
+<p>🎓 Graduated in Systems Analysis and Development at IPCA </p>
+<p>✈️ Live in Portugal (Braga)</p>
+<p>🇺🇸 B2 Advanced English Level</p>
+<p>📚 Studing SQL Server and .NET Architecture</p>
 
-<!--
-**Paulosouzx/Paulosouzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-souzx/)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,ts,git,github,angular" />
+  </a>
+</p>
+
+<br>
+
+<strong>
+Here you'll find some projects focused in the following technologies:</strong>
+
+<br>
+<p>-C#</p>
+<p>-.NET Framework and .NET Core</p>
+<p>-ASP.NET (Web Forms, MVC, Core)</p>
+<p>-MySql</p>
+<p>-Entity Framework</p>
+<p>-RESTful APIs using ASP.NET Core</p>
+<p>-Relational Databases (SQL Server and MySQL)</p>
+<p>-Blazor for building interactive web UIs</p>
+<br>
+
+
+<hr>
+<br>
+
+
+
+
+
+And also about the following Design Patterns:
+
+-Strategy
+
+-Factory
+
+-Singleton
+
+-Builder
+
+<hr>
+
+<p>Enjoy :)</p>
