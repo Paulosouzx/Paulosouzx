@@ -22,6 +22,7 @@
 Here you'll find some projects focused in the following technologies:</strong>
 
 <br>
+
 <p>-C#</p>
 <p>-.NET Framework and .NET Core</p>
 <p>-ASP.NET (Web Forms, MVC, Core)</p>
