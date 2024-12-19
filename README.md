@@ -41,14 +41,6 @@ Here you'll find some projects focused in the following technologies:</strong>
 
 
 
-And also about the following Design Patterns:
-
--Strategy
-
--Factory
-
--Singleton
-
 -Builder
 
 <hr>
