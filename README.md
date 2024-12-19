@@ -38,11 +38,4 @@ Here you'll find some projects focused in the following technologies:</strong>
 <br>
 
 
-
-
-
--Builder
-
-<hr>
-
 <p>Enjoy :)</p>
