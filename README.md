@@ -26,11 +26,12 @@ Here you'll find some projects focused in the following technologies:</strong>
 <p>-C#</p>
 <p>-.NET Framework and .NET Core</p>
 <p>-ASP.NET (Web Forms, MVC, Core)</p>
-<p>-MySql</p>
 <p>-Entity Framework</p>
+<p>-TypeOrm</p>
 <p>-RESTful APIs using ASP.NET Core</p>
-<p>-Relational Databases (SQL Server and MySQL)</p>
-<p>-Blazor for building interactive web UIs</p>
+<p>-RESTful APIs using NestJs</p>
+<p>-Relational Databases (SQL Server, MySQL, Postgres)</p>
+<p>-Next.js, React, angular for building interactive web UIs</p>
 <br>
 
 
