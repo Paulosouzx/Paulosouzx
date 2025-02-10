@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,ts,nodejs,express,angular,react,git,github,docker,tailwind,nestjs" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,supabase,postgres,js,ts,nodejs,express,angular,react,vite,git,github,docker,tailwind,nestjs" />
   </a>
 </p>
 
