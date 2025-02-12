@@ -2,7 +2,7 @@
 <p>🎓 Graduated in Systems Analysis and Development at IPCA </p>
 <p>✈️ Live in Portugal (Braga)</p>
 <p>🇺🇸 B2 Advanced English Level</p>
-<p>📚 Studing SQL Server and .NET Architecture</p>
+<p>📚 NestJs and NextJs</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-souzx/)
 
