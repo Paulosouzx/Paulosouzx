@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,supabase,postgres,js,ts,nodejs,express,angular,react,vite,git,github,docker,tailwind,nestjs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nestjs,nextjs,nodejs,express,react,vite,cs,dotnet,supabase,postgres,git,github,docker,tailwind" />
   </a>
 </p>
 
@@ -26,12 +26,11 @@ Here you'll find some projects focused in the following technologies:</strong>
 <p>-C#</p>
 <p>-.NET Framework and .NET Core</p>
 <p>-ASP.NET (Web Forms, MVC, Core)</p>
-<p>-Entity Framework</p>
-<p>-TypeOrm</p>
+<p>-TypeOrm, Entity Framework</p>
 <p>-RESTful APIs using ASP.NET Core</p>
 <p>-RESTful APIs using NestJs</p>
 <p>-Relational Databases (SQL Server, MySQL, Postgres)</p>
-<p>-Next.js, React, angular for building interactive web UIs</p>
+<p>-Next.js and React for building interactive web UIs</p>
 <br>
 
 
