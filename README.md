@@ -35,7 +35,5 @@ Here you'll find some projects focused in the following technologies:</strong>
 
 
 <hr>
-<br>
-
 
 <p>Enjoy :)</p>
