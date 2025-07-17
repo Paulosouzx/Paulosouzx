@@ -8,7 +8,6 @@
 
 <hr>
 
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
