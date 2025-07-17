@@ -31,7 +31,6 @@ Here you'll find some projects focused in the following technologies:</strong>
 <p>-RESTful APIs using Nest.Js</p>
 <p>-Relational Databases (SQL Server, MySQL, Postgres)</p>
 <p>-Next.js and React for building interactive web UIs</p>
-<br>
 
 
 <hr>
