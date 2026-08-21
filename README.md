@@ -42,4 +42,4 @@
 
 <hr>
 
-<p align="center">Thanks for stopping by — feel free to check out my pinned repos below! 🚀</p>
+<p align="center">Thanks for stopping by, feel free to check out my pinned repos below! 🚀</p>
