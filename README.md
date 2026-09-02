@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  💻 Junior Fullstack Developer @ Bloomidea (digital agency, Braga, Portugal)<br>
+  💻 Junior-Mid Fullstack Developer @ Bloomidea (digital agency, Braga, Portugal)<br>
   🧱 Building and maintaining Drupal-based platforms (e-commerce, healthcare & more)<br>
   🔄 Transitioning toward Java / Spring Boot + React<br>
   🧑‍💻 Gaining new experience with Claude Code in my daily workflow<br>
