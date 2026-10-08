@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,nestjs,nextjs,nodejs,express,react,tailwind,materialui,cs,dotnet,supabase,prisma,postgres,mysql,git,github,docker,symfony,php,aws" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,spring,nestjs,nextjs,nodejs,express,react,tailwind,materialui,cs,dotnet,supabase,prisma,postgres,mysql,git,github,docker,symfony,php,azure" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 - Working daily with **Drupal** (custom modules, Commerce, Search API/Solr) on client projects at Bloomidea
 - Leveling up in **Java & Spring Boot**, pairing it with **React** on the frontend
-- Studying for **AWS Cloud Practitioner** and **AWS AI Practitioner** certifications
+- Studying for **AZ-900** certification
 - Getting hands-on with **Claude Code** as part of my daily dev workflow
 - Maintaining a few personal projects on the side (a React/Supabase time tracker, an Expo bus-arrivals app)
 
